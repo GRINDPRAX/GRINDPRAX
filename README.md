@@ -18,7 +18,7 @@
 
 <h2>📈 Моя статистика на GitHub</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L.ecYA&show_icons=true&hide_border=true&theme=react&bg_color=5D3FD3&title_color=D1C4E9&icon_color=D1C4E9&text_color=D1C4E9" alt="Статистика GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GRINDPRAX&show_icons=true&hide_border=true&theme=react&bg_color=5D3FD3&title_color=D1C4E9&icon_color=D1C4E9&text_color=D1C4E9" alt="Статистика GitHub"/>
 </div>
 
 <h2>🔥 Мои вклады</h2>
