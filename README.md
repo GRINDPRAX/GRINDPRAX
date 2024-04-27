@@ -23,12 +23,6 @@
 
 <h2>🔥 Мои вклады</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ваш_пользователь&theme=dark&background=5D3FD3&stroke=D1C4E9&ring=D1C4E9&fire=D1C4E9&currStreakNum=D1C4E9&sideNums=D1C4E9&currStreakLabel=D1C4E9&sideLabels=D1C4E9&dates=D1C4E9" alt="Статистика вкладов GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRINDPRAX&theme=dark&background=5D3FD3&stroke=D1C4E9&ring=D1C4E9&fire=D1C4E9&currStreakNum=D1C4E9&sideNums=D1C4E9&currStreakLabel=D1C4E9&sideLabels=D1C4E9&dates=D1C4E9" alt="Статистика вкладов GitHub"/>
 </div>
 
-<!--
-**ваш_пользователь/ваш_пользователь** это ✨ _специальный_ ✨ репозиторий, потому что его README.md (этот файл) отображается на вашем профиле GitHub.
-Вы можете нажать на ссылку, чтобы просмотреть ваши изменения.
--->
-
-<!-- Можете добавить секцию с контактами или дополнительной информацией -->
