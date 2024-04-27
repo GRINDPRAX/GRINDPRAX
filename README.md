@@ -1,28 +1,98 @@
-<div align="center">
-  <h1>Привет, я Леська 👋</h1>
-  <p>Добро пожаловать в мой профиль на GitHub!</p>
-</div>
+# Салам 👋
 
 <div align="center">
-  <img src="https://via.placeholder.com/900x300/5D3FD3/D1C4E9?text=Ваше+Имя+на+GitHub" alt="banner that says 'L.ecYA'">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
-<h2>🛠 Технологии и инструменты</h2>
-<p>
-  <!-- Иконки технологий -->
-  <img src="https://img.shields.io/badge/code-Python-5D3FD3?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/tool-Docker-5D3FD3?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/>
-  <!-- Добавьте другие иконки по вашему усмотрению -->
+</br>
+</br>
+</br>
+
+
+# About ME 💬 :
+
+### - I'm 18 years  python developer from Russia.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
+
+### - Hobbies : 
+- ✨ Rap music
+- ✨ My label
+- ✨ Reading Light Novels
+
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
-
-<h2>📈 Моя статистика на GitHub</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ваш_пользователь&show_icons=true&hide_border=true&theme=react&bg_color=5D3FD3&title_color=D1C4E9&icon_color=D1C4E9&text_color=D1C4E9" alt="Статистика GitHub"/>
-</div>
-
-<h2>🔥 Мои вклады</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ваш_пользователь&theme=dark&background=5D3FD3&stroke=D1C4E9&ring=D1C4E9&fire=D1C4E9&currStreakNum=D1C4E9&sideNums=D1C4E9&currStreakLabel=D1C4E9&sideLabels=D1C4E9&dates=D1C4E9" alt="Статистика вкладов GitHub"/>
-</div>
+</br>
+</br>
+</br>
 
 
+
+# Связь со мной :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+
+Если вы хотите связаться со мной по любому поводу, будь то сомнения или просто потусоваться и поговорить или поиграть вместе, просто напишите мне. 😉.
+
+<a href="mailto:pravogoanton@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://t.me/BOPUEM">
+  <img align="left" alt="Telegram" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/telegram.png" />
+</a>
+<a href="https://steamcommunity.com/id/VitalLie/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
