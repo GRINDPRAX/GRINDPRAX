@@ -1,4 +1,4 @@
-![image](https://github.com/GRINDPRAX/GRINDPRAX/assets/88826658/dad756c2-3de5-4dce-8bfa-41960df50046)# Привет 👋
+# Привет 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://i.gifer.com/embedded/download/Wxw4.gif">
